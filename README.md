@@ -10,7 +10,10 @@
 
 <b>Question 3:</b> Create a function such that if a user passes in a store id it returns the each product id, name of the product and the line total of that product.<br><br>
 
-<b>Question 4:</b> For each Job title show the number of employees, mean age and mean rate. Use a temp table inside a stored procedure<br><br>
+<b>Question 4:</b> For each Job title show the number of employees, mean age and mean rate. Use a temp table inside a stored procedure
+
+---
+
+<b>Solutions:</b> Click <a  href="https://github.com/mulongocheloti/AdventureWorks2019-Analysis-T-SQL-/blob/main/Adv2019%20Analysis.sql">SQL Script</a> to view the solutions<br><br>
 
 https://user-images.githubusercontent.com/68067031/175130067-b7116f7c-b0c6-4508-84a5-6b310b0ff2b8.mp4
-
